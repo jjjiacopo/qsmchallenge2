@@ -84,11 +84,11 @@
 83,96.39838,153.261,251.5834,187.9728,65.57622,0.2579676,0.1268179,43.07096,urVBXFAeow_,'urVBXFAeow_',1.306878307,1.888888889,urVBXFAeow,Deep Learning,No,None or does not apply,Frequency map,urVBXFAeow
 84,69.23384,88.22543,107.5475,149.4033,53.03107,0.2089287,0.1262761,36.02719,0ownSRAIfH_,'0ownSRAIfH_',1.296296296,1.555555556,0ownSRAIfH,low-rank Hankel matrix approach,No,Low-rankness of Hankel structured matrix,Frequency map,0ownSRAIfH
 85,77.00696,101.6875,147.5617,160.6284,46.51839,0.03014714,0.1302466,38.45804,Mx2TDToh2i_,'Mx2TDToh2i_',1.259259259,1.555555556,Mx2TDToh2i,Deep Learning,No,None or does not apply,Frequency map,Mx2TDToh2i
-86,98.3286,85.50212,104.8768,144.7653,53.89996,0.2652092,0.140531,33.1669,9xFaMbtDhf_,'9xFaMbtDhf_',0.925925926,1.222222222,9xFaMbtDhf,Closed-form direct solution,No,None or does not apply,,9xFaMbtDhf
+86,98.3286,85.50212,104.8768,144.7653,53.89996,0.2652092,0.140531,33.1669,9xFaMbtDhf_,'9xFaMbtDhf_',0.925925926,1.222222222,9xFaMbtDhf,Closed-form direct solution,No,None or does not apply,None,9xFaMbtDhf
 87,95.62131,106.0563,140.4119,145.3684,48.64615,0.06926116,0.2195705,28.5298,cbi99GQHhl_,'cbi99GQHhl_',0.925925926,1.111111111,cbi99GQHhl,Deep Learning,No,implicit in network,Frequency map,cbi99GQHhl
 88,69.40408,79.30265,92.62479,154.5566,41.98288,0.1041399,0.1750863,29.45185,HnOQS9oNNu_,'HnOQS9oNNu_',0.814814815,1.111111111,HnOQS9oNNu,Hybrid (multiple categories),No,L2,Frequency map,HnOQS9oNNu
 89,156.4864,100.2699,121.7455,135.7989,50.88918,0.9018106,0.09631388,16.25478,Jg4olcpuFP_,'Jg4olcpuFP_',0.814814815,1.111111111,Jg4olcpuFP,Deep Learning,No,None or does not apply,Frequency map,Jg4olcpuFP
-90,102.2297,87.246,105.7748,152.1043,54.39055,0.2961674,0.1310059,22.99315,zSKb53P9XH_,'zSKb53P9XH_',0.740740741,0.888888889,zSKb53P9XH,Closed-form direct solution,No,None or does not apply,,zSKb53P9XH
+90,102.2297,87.246,105.7748,152.1043,54.39055,0.2961674,0.1310059,22.99315,zSKb53P9XH_,'zSKb53P9XH_',0.740740741,0.888888889,zSKb53P9XH,Closed-form direct solution,No,None or does not apply,None,zSKb53P9XH
 91,123.7475,91.93059,117.8856,139.208,51.43945,0.9079018,0.1602343,37.63098,fubYYthC47_,'fubYYthC47_',0.518518519,0.777777778,fubYYthC47,Deep Learning,No,None or does not apply,Frequency map,fubYYthC47
 92,148.8578,128.2222,177.2449,193.7242,51.08039,0.8879079,0.1430629,25.91724,W1WbilA6Lv_,'W1WbilA6Lv_',0.333333333,0.111111111,W1WbilA6Lv,Hybrid (multiple categories),No,Generalized total variation,Individual echo phase images,W1WbilA6Lv
 93,202.4339,215.4176,280.2911,220.428,128.3541,0.02368847,0.1499576,24.77312,9feq374hs0_,'9feq374hs0_',0,0,9feq374hs0,Inverse filtering (TKD-like),No,None or does not apply,Individual echo phase images,9feq374hs0
